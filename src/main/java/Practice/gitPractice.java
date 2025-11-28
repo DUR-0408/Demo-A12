@@ -9,5 +9,6 @@ public class gitPractice
 	public void m1()
     {
 	System.out.println("Chitti");
+	System.out.println("good mrng");
 	}
 }
